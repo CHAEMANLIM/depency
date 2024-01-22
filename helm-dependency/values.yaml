@@ -5,3 +5,7 @@ wordpress:
       password: bar
     rootUser:
       password: baz
+args:
+  statusProcessors: "20"
+  operationProcessors: "10"
+  appResyncPeriod: "60"
