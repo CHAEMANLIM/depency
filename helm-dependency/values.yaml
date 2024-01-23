@@ -2,9 +2,9 @@ wordpress:
   wordpressPassword: foo
   mariadb:
     db:
-      password: baw
+      password: bas
     rootUser:
-      password: baw
+      password: bas
 args:
   statusProcessors: "20"
   operationProcessors: "10"
