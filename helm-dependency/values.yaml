@@ -8,4 +8,4 @@ wordpress:
 args:
   statusProcessors: "30"
   operationProcessors: "10"
-  appResyncPeriod: "80"
+  appResyncPeriod: "30s"
