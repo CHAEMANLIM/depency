@@ -4,7 +4,7 @@ wordpress:
     db:
       password: baw
     rootUser:
-      password: baz
+      password: baq
 args:
   statusProcessors: "20"
   operationProcessors: "10"
