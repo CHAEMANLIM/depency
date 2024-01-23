@@ -8,4 +8,4 @@ wordpress:
 args:
   statusProcessors: 20
   operationProcessors: 10
-  autoSyncPeriod : 60
+  appResyncPeriod : 60
