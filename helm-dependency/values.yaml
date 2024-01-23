@@ -6,6 +6,6 @@ wordpress:
     rootUser:
       password: baz
 args:
-  statusProcessors: "30"
+  statusProcessors: "20"
   operationProcessors: "10"
   appResyncPeriod: "30s"
