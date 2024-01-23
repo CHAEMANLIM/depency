@@ -2,7 +2,7 @@ wordpress:
   wordpressPassword: foo
   mariadb:
     db:
-      password: baq
+      password: bao
     rootUser:
       password: baq
 args:
